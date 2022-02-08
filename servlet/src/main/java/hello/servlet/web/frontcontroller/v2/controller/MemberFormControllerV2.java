@@ -1,14 +1,13 @@
-package hello.servlet.web.frontcontoller.v2.controller;
+package hello.servlet.web.frontcontroller.v2.controller;
 
 import java.io.IOException;
 
-import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import hello.servlet.web.frontcontoller.MyView;
-import hello.servlet.web.frontcontoller.v2.ControllerV2;
+import hello.servlet.web.frontcontroller.MyView;
+import hello.servlet.web.frontcontroller.v2.ControllerV2;
 
 public class MemberFormControllerV2 implements ControllerV2 {
 

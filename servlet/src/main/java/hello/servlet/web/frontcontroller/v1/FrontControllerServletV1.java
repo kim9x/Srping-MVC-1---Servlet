@@ -1,4 +1,4 @@
-package hello.servlet.web.frontcontoller.v1;
+package hello.servlet.web.frontcontroller.v1;
 
 import java.io.IOException;
 import java.util.HashMap;
@@ -10,9 +10,9 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import hello.servlet.web.frontcontoller.v1.controller.MemberFormControllerV1;
-import hello.servlet.web.frontcontoller.v1.controller.MemberListControllerV1;
-import hello.servlet.web.frontcontoller.v1.controller.MemberSaveControllerV1;
+import hello.servlet.web.frontcontroller.v1.controller.MemberFormControllerV1;
+import hello.servlet.web.frontcontroller.v1.controller.MemberListControllerV1;
+import hello.servlet.web.frontcontroller.v1.controller.MemberSaveControllerV1;
 
 @WebServlet(name = "frontControllerServletV1", urlPatterns = "/front-controller/v1/*")
 public class FrontControllerServletV1 extends HttpServlet {

@@ -1,4 +1,4 @@
-package hello.servlet.web.frontcontoller.v1.controller;
+package hello.servlet.web.frontcontroller.v1.controller;
 
 import java.io.IOException;
 
@@ -7,7 +7,7 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import hello.servlet.web.frontcontoller.v1.ControllerV1;
+import hello.servlet.web.frontcontroller.v1.ControllerV1;
 
 public class MemberFormControllerV1 implements ControllerV1 {
 

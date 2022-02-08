@@ -1,4 +1,4 @@
-package hello.servlet.web.frontcontoller.v1;
+package hello.servlet.web.frontcontroller.v1;
 
 import java.io.IOException;
 

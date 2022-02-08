@@ -1,4 +1,4 @@
-package hello.servlet.web.frontcontoller.v2;
+package hello.servlet.web.frontcontroller.v2;
 
 import java.io.IOException;
 
@@ -6,7 +6,7 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import hello.servlet.web.frontcontoller.MyView;
+import hello.servlet.web.frontcontroller.MyView;
 
 public interface ControllerV2 {
 	

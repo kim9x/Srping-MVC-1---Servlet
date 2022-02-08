@@ -1,4 +1,4 @@
-package hello.servlet.web.frontcontoller;
+package hello.servlet.web.frontcontroller;
 
 import java.io.IOException;
 import java.util.Map;
